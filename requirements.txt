@@ -1,0 +1,7 @@
+streamlit 
+google-generativeai
+python-dotenv #loading environment variables
+langchain #has lot of functionalities to read pdf
+PyPDF2 #reading pdf
+faiss-cpu #vectordb -> use faiss-gpu if u have more number of files
+langchain_google_genai #with help of langchain u can access api of google generative AI
